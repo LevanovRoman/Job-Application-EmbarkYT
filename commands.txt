@@ -1,0 +1,9 @@
+{
+    "id": "1",
+    "title": "Software ingineer",
+    "description": "test descr",
+    "minSalary": "30000",
+    "maxSalary": "400000",
+    "location": "CA"
+  }
+
