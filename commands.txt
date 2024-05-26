@@ -13,3 +13,9 @@ http://localhost:8080/h2-console
     "name": "Company 1",
     "description": "Description 1"
   }
+
+Json formatter
+
+./mvnw spring-boot:build-image "-Dspring-boot.build-image.imageName=<IMAGE-NAME>"
+./mvnw spring-boot:build-image "-Dspring-boot.build-image.imageName=levanovroman/jodappimage"
+
