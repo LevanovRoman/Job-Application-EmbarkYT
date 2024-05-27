@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.myapp.jobappembarkyt.JobAppEmbarkYtApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.27 s -- in com.myapp.jobappembarkyt.JobAppEmbarkYtApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.118 s -- in com.myapp.jobappembarkyt.JobAppEmbarkYtApplicationTests
